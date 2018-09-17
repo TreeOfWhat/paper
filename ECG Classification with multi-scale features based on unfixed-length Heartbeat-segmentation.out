@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.0.1}{INTRODUCTION}{}% 1
+\BOOKMARK [1][-]{section.0.2}{RELATED WORK}{}% 2
+\BOOKMARK [1][-]{section.0.3}{METHOD}{}% 3
+\BOOKMARK [2][-]{subsection.0.3.1}{The Segmentation of ECG Beats with Unfixed-length}{section.0.3}% 4
+\BOOKMARK [3][-]{subsubsection.0.3.1.1}{Disadvantages of Segmenting ECG beats with fixed-length}{subsection.0.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.0.3.1.2}{Definition of the real length of ECG beat}{subsection.0.3.1}% 6
+\BOOKMARK [3][-]{subsubsection.0.3.1.3}{Segment ECG beats with an offset}{subsection.0.3.1}% 7
+\BOOKMARK [3][-]{subsubsection.0.3.1.4}{Shape ECG beats from unfixed-length to fixed-length}{subsection.0.3.1}% 8
+\BOOKMARK [2][-]{subsection.0.3.2}{The Overlapping Segmentation of Waves}{section.0.3}% 9
+\BOOKMARK [3][-]{subsubsection.0.3.2.1}{Disadvantages of non-overlapping segmentation of waves}{subsection.0.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.0.3.2.2}{Segment waves with overlapping algorithm}{subsection.0.3.2}% 11
+\BOOKMARK [2][-]{subsection.0.3.3}{The Extraction of Inter-beat Features}{section.0.3}% 12
+\BOOKMARK [2][-]{subsection.0.3.4}{1-D CNN}{section.0.3}% 13
+\BOOKMARK [1][-]{section.0.4}{EXPERIMENTS}{}% 14
+\BOOKMARK [2][-]{subsection.0.4.1}{Dataset}{section.0.4}% 15
+\BOOKMARK [2][-]{subsection.0.4.2}{Effects of Beat Features Extracted via SEU}{section.0.4}% 16
+\BOOKMARK [3][-]{subsubsection.0.4.2.1}{Setup}{subsection.0.4.2}% 17
+\BOOKMARK [3][-]{subsubsection.0.4.2.2}{Choice of Offset}{subsection.0.4.2}% 18
+\BOOKMARK [3][-]{subsubsection.0.4.2.3}{Effects of the Valid Length}{subsection.0.4.2}% 19
+\BOOKMARK [2][-]{subsection.0.4.3}{Effects of Inner-beat Features Extracted via OSW}{section.0.4}% 20
+\BOOKMARK [3][-]{subsubsection.0.4.3.1}{Setup}{subsection.0.4.3}% 21
+\BOOKMARK [3][-]{subsubsection.0.4.3.2}{Experimental Results}{subsection.0.4.3}% 22
+\BOOKMARK [2][-]{subsection.0.4.4}{Effects of Inter-beat Features Extracted via EIF}{section.0.4}% 23
+\BOOKMARK [3][-]{subsubsection.0.4.4.1}{Setup}{subsection.0.4.4}% 24
+\BOOKMARK [3][-]{subsubsection.0.4.4.2}{Experimental Results}{subsection.0.4.4}% 25
+\BOOKMARK [1][-]{section.0.5}{CONCLUSION}{}% 26

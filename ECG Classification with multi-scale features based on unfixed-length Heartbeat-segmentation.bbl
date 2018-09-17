@@ -1,0 +1,120 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abhinav-Vishwa et~al.(2011)Abhinav-Vishwa, Lal, and
+  Vardwaj]{abhinav2011clasification}
+MK~Abhinav-Vishwa, SD~Lal, and P~Vardwaj.
+\newblock Clasification of arrhythmic ecg data using machine learning
+  techniques.
+\newblock \emph{International Journal of Interactive Multimedia and Artificial
+  Intelligence}, 1\penalty0 (4), 2011.
+
+\bibitem[Acharya et~al.(2017)Acharya, Oh, Hagiwara, Tan, Adam, Gertych, and
+  San~Tan]{acharya2017deep}
+U~Rajendra Acharya, Shu~Lih Oh, Yuki Hagiwara, Jen~Hong Tan, Muhammad Adam,
+  Arkadiusz Gertych, and Ru~San~Tan.
+\newblock A deep convolutional neural network model to classify heartbeats.
+\newblock \emph{Computers in biology and medicine}, 89:\penalty0 389--396,
+  2017.
+
+\bibitem[Ebrahimzadeh et~al.(2016)Ebrahimzadeh, Ahmadi, and
+  Safarnejad]{ebrahimzadeh2016classification}
+A~Ebrahimzadeh, M~Ahmadi, and M~Safarnejad.
+\newblock Classification of ecg signals using hermite functions and mlp neural
+  networks.
+\newblock \emph{Journal of AI and Data Mining}, 4\penalty0 (1):\penalty0
+  55--65, 2016.
+
+\bibitem[Hong et~al.(2017)Hong, Wu, Zhou, Wang, Shang, Li, and
+  Xie]{hong2017encase}
+Shenda Hong, Meng Wu, Yuxi Zhou, Qingyun Wang, Junyuan Shang, Hongyan Li, and
+  Junqing Xie.
+\newblock Encase: An ensemble classifier for ecg classification using expert
+  features and deep neural networks.
+\newblock In \emph{Computing in Cardiology (CinC), 2017}, pages 1--4. IEEE,
+  2017.
+
+\bibitem[Jiang and Kong(2007)]{jiang2007block}
+Wei Jiang and Seong~G Kong.
+\newblock Block-based neural networks for personalized ecg signal
+  classification.
+\newblock \emph{IEEE Trans. Neural Networks}, 18\penalty0 (6):\penalty0
+  1750--1761, 2007.
+
+\bibitem[Kiranyaz et~al.(2016)Kiranyaz, Ince, and Gabbouj]{kiranyaz2016real}
+Serkan Kiranyaz, Turker Ince, and Moncef Gabbouj.
+\newblock Real-time patient-specific ecg classification by 1-d convolutional
+  neural networks.
+\newblock \emph{IEEE Transactions on Biomedical Engineering}, 63\penalty0
+  (3):\penalty0 664--675, 2016.
+
+\bibitem[Li et~al.(2017)Li, Zhang, Zhang, and Wei]{li2017classification}
+Dan Li, Jianxin Zhang, Qiang Zhang, and Xiaopeng Wei.
+\newblock Classification of ecg signals based on 1d convolution neural network.
+\newblock In \emph{e-Health Networking, Applications and Services (Healthcom),
+  2017 IEEE 19th International Conference on}, pages 1--6. IEEE, 2017.
+
+\bibitem[Li and Zhou(2016)]{li2016ecg}
+Taiyong Li and Min Zhou.
+\newblock Ecg classification using wavelet packet entropy and random forests.
+\newblock \emph{Entropy}, 18\penalty0 (8):\penalty0 285, 2016.
+
+\bibitem[Limam and Precioso(2017)]{limam2017atrial}
+Mohamed Limam and Frederic Precioso.
+\newblock Atrial fibrillation detection and ecg classification based on
+  convolutional recurrent neural network.
+\newblock \emph{Computing}, 44:\penalty0 1, 2017.
+
+\bibitem[Pan and Tompkins(1985)]{pan1985real}
+Jiapu Pan and Willis~J Tompkins.
+\newblock A real-time qrs detection algorithm.
+\newblock \emph{IEEE Trans. Biomed. Eng}, 32\penalty0 (3):\penalty0 230--236,
+  1985.
+
+\bibitem[Raj and Ray(2017)]{raj2017ecg}
+Sandeep Raj and Kailash~Chandra Ray.
+\newblock Ecg signal analysis using dct-based dost and pso optimized svm.
+\newblock \emph{IEEE Transactions on Instrumentation and Measurement},
+  66\penalty0 (3):\penalty0 470--478, 2017.
+
+\bibitem[Salloum and Kuo(2017)]{salloum2017ecg}
+Ronald Salloum and C-C~Jay Kuo.
+\newblock Ecg-based biometrics using recurrent neural networks.
+\newblock In \emph{Acoustics, Speech and Signal Processing (ICASSP), 2017 IEEE
+  International Conference on}, pages 2062--2066. IEEE, 2017.
+
+\bibitem[Xiang et~al.(2018)Xiang, Luo, Zhu, Wang, Xiang, and
+  Meng]{xiang2018ecg}
+Yande Xiang, Jiahui Luo, Taotao Zhu, Sheng Wang, Xiaoyan Xiang, and Jianyi
+  Meng.
+\newblock Ecg-based heartbeat classification using two-level convolutional
+  neural network and rr interval difference.
+\newblock \emph{IEICE Transactions on Information and Systems}, 101\penalty0
+  (4):\penalty0 1189--1198, 2018.
+
+\bibitem[Ye et~al.(2012{\natexlab{a}})Ye, Kumar, and Coimbra]{ye2012combining}
+Can Ye, BVK~Vijaya Kumar, and Miguel~Tavares Coimbra.
+\newblock Combining general multi-class and specific two-class classifiers for
+  improved customized ecg heartbeat classification.
+\newblock In \emph{Pattern Recognition (ICPR), 2012 21st International
+  Conference on}, pages 2428--2431. IEEE, 2012{\natexlab{a}}.
+
+\bibitem[Ye et~al.(2012{\natexlab{b}})Ye, Kumar, and Coimbra]{ye2012heartbeat}
+Can Ye, BVK~Vijaya Kumar, and Miguel~Tavares Coimbra.
+\newblock Heartbeat classification using morphological and dynamic features of
+  ecg signals.
+\newblock \emph{IEEE Transactions on Biomedical Engineering}, 59\penalty0
+  (10):\penalty0 2930--2941, 2012{\natexlab{b}}.
+
+\bibitem[Zubair et~al.(2016)Zubair, Kim, and Yoon]{zubair2016automated}
+Muhammad Zubair, Jinsul Kim, and Changwoo Yoon.
+\newblock An automated ecg beat classification system using convolutional
+  neural networks.
+\newblock In \emph{IT Convergence and Security (ICITCS), 2016 6th International
+  Conference on}, pages 1--5. IEEE, 2016.
+
+\end{thebibliography}
